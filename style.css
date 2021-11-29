@@ -18,8 +18,11 @@ footer{
 
 .logo{
     margin-left: 40px;
+    width: 100px;
 }
-
+.cart{
+    width: 25px;
+}
 .navbar{
     display: flex;
     align-items: center;
